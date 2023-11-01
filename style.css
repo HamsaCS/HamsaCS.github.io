@@ -346,4 +346,10 @@ nav .fa-solid{
         left: 25px;
         cursor: pointer;
     }
+    nav .fa-solid{
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        cursor: pointer;
+    }
 }
