@@ -63,7 +63,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color:sienna;
+    color:#6d1316;
 }
 /*-------------------------about-------------*/
 #about{
@@ -121,7 +121,7 @@ nav ul li a:hover::after{
 
 }
 .tab-contents ul li span{
-    color: #B9464a;
+    color: #6d1316;
     font-size: 14px;
 }
 .tab-contents{
@@ -130,6 +130,17 @@ nav ul li a:hover::after{
 .tab-contents.active-tab{
     display: block;
 }
+.tab-contents ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+    margin-top: 5px;
+    display: inline-block;
+}
+.tab-contents li{
+    font-size: 15px;
+}
+
 /*--------------services------------*/
 #services{
     padding: 30px 0;
